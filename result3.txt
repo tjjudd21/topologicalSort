@@ -1,0 +1,17 @@
+
+Enter the name of your file that contains the graph vertices: 
+Adjency Matrix: 
+    0     1     0     0     0     0     0 
+    0     0     0     0     1     0     1 
+    1     0     0     0     0     0     0 
+    1     1     1     0     0     1     1 
+    0     0     0     0     0     0     1 
+    0     0     1     0     0     0     0 
+    0     0     0     0     0     1     0 
+
+
+Now topologically sorting the graph...
+
+Cycle Detected!  Cannot sort topologically!  Sorry, sucker!
+
+Press any key to continue . . . 

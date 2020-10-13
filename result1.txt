@@ -1,0 +1,14 @@
+
+Enter the name of your file that contains the graph vertices: 
+Adjency Matrix: 
+    0     1     0     1 
+    0     0     1     0 
+    0     0     0     1 
+    0     0     0     0 
+
+
+Now topologically sorting the graph...
+
+0 1 2 3 
+
+Press any key to continue . . . 
